@@ -28,9 +28,6 @@
 <a href="https://linkedin.com/in/kamilmarut">
   <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/ED9D00" />
 </a>
-<a href="https://stackoverflow.com/users/7841522/exler">
-  <img align="left" alt="StackOverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/ED9D00" />
-</a>
 
 | &nbsp;&nbsp; I'm always open for interesting freelancing/consulting/startup offers!
 
