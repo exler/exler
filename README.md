@@ -22,9 +22,6 @@
 
 ----
 
-<a href="https://twitter.com/DotExler">
-  <img align="left" alt="Twitter" width="20px" src="https://simpleicons.now.sh/twitter/ED9D00" />
-</a>
 <a href="https://linkedin.com/in/kamilmarut">
   <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/ED9D00" />
 </a>
