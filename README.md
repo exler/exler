@@ -13,7 +13,7 @@
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=ED9D00&logoColor=000&style=flat-square)
 ![Django](https://img.shields.io/static/v1?logo=django&label=&message=Django&color=ED9D00&logoColor=000&style=flat-square)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=ED9D00&logoColor=000&style=flat-square)
-![NextJS](https://img.shields.io/static/v1?logo=nextdotjs&label=&message=NextJS&color=ED9D00&logoColor=000&style=flat-square)
+![Astro](https://img.shields.io/static/v1?logo=astro&label=&message=Astro&color=ED9D00&logoColor=000&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
 **Performance & Infrastructure Software Engineer** &#8250; _specializing in designing reliable & efficient services in financial sectors_
