@@ -17,11 +17,5 @@
 
 I specialize in development of **high-performance** and **maintainable** digital products, with expertise in **pragmatic system design** and **rapid prototyping**. 
 
-----
-
-<a href="https://linkedin.com/in/kamilmarut">
-  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/ED9D00" />
-</a>
-
-| &nbsp;&nbsp; I'm always open for interesting freelancing/consulting/startup offers!
+I'm always open for interesting freelancing/consulting/startup offers!
 
