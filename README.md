@@ -1,4 +1,4 @@
-### Hi, I'm Kamil! &nbsp;&nbsp;<sup>Open-source enthusiast with a pragmatic approach. Loves simplicity.</sup>
+**Hi, I'm Kamil! &nbsp;&nbsp;<sup>Open-source enthusiast with a pragmatic approach. Loves simplicity.</sup>**
 
 ----
 
