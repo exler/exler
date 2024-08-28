@@ -13,6 +13,6 @@
 
 I specialize in development of **high-performance** and **maintainable** digital products, with expertise in **pragmatic system design** and **rapid prototyping**. 
 
-I consider great software architecture **a form of art**, but so I do as well with **delivering on time and on budget**.
+I consider great software architecture to be **a form of art**, but I feel the same way about **delivering projects on time and within budget**.
 
 I'm always open for interesting freelancing/consulting offers!
