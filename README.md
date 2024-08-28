@@ -1,7 +1,3 @@
-**Hi, I'm Kamil! &nbsp;&nbsp;<sup>Open-source enthusiast with a pragmatic approach. Loves simplicity.</sup>**
-
-----
-
 ![Languages:](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=ED9D00&logoColor=000&style=flat-square&link=)
 ![Go](https://img.shields.io/static/v1?logo=go&label=&message=Golang&color=ED9D00&logoColor=000&style=flat-square)
@@ -17,5 +13,6 @@
 
 I specialize in development of **high-performance** and **maintainable** digital products, with expertise in **pragmatic system design** and **rapid prototyping**. 
 
-I'm always open for interesting freelancing/consulting/startup offers!
+I consider great software architecture **a form of art**, but so I do as well with **delivering on time and on budget**.
 
+I'm always open for interesting freelancing/consulting offers!
